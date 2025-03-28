@@ -10,3 +10,6 @@ The probability sample of time-series reference data enabled us to quantify the 
 All codes included here were used for estimating the statistics in a submitted manuscript:
 
 A.H. Pickens, M.C. Hansen, Z. Song, A. Poulson, A. Komarova, A. Baggett, T. Kerr, A. Mikus, C. Ortiz Dominguez, A. Tyukavina, A. Lima. Global land change monitoring in near-real time. _Submitted_
+
+### Questions?
+Reach out to ahudson2 _at_ umd.edu.
